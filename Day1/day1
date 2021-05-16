@@ -1,0 +1,244 @@
+What is is .NET?
+    . NET is a free, cross-platform, open source developer platform for building many different types of applications. With . NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT.
+
+Why .NET?
+1. more productive
+2. Quality app development
+3. Faster performance than others
+4. Secure
+5. Solid Eco system
+
+
+Introduction to .NET and .NET Core
+.NET --> Developers use the . NET framework to create Windows desktop applications and server based applications.
+NET Core is used to create server applications that run on Windows, Linux and Mac. It does not currently support creating desktop applications with a user interface.
+
+Write our first C# program
+    https://www.w3schools.com/cs/cs_getstarted.asp
+
+What is the meaning of namespace
+    A namespace is a declarative region that provides a scope to the identifiers
+    (the names of types, functions, variables, etc) inside it. Namespaces are used 
+    to organize code into logical groups and to prevent name collisions that can occur 
+    especially when your code base includes multiple libraries.
+
+ C# is case-sensitive: "MyClass" and "myclass" has different meaning.
+
+
+Write our first C# program
+    https://www.w3schools.com/cs/cs_syntax.asp
+    using System;
+
+    namespace HelloWorld
+    {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        Console.WriteLine("Hello World!");    
+        }
+    }
+    }
+
+Write and WriteLine
+
+    Console.WriteLine("Hello World!");  
+    Console.WriteLine("I will print on a new line.");
+
+    Console.Write("Hello World! ");
+    Console.Write("I will print on the same line.");
+
+        Hello World!
+        I will print on a new line.
+        Hello World! I will print on the same line. 
+
+Datatypes and variables- https://www.w3schools.com/cs/cs_variables.asp
+    
+    int - stores integers (whole numbers), without decimals, such as 123 or -123
+    double - stores floating point numbers, with decimals, such as 19.99 or -19.99
+    char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+    string - stores text, such as "Hello World". String values are surrounded by double quotes
+    bool - stores values with two states: true or false
+
+        type variableName = value;
+        int myNum = 5;
+        double myDoubleNum = 5.99D;
+        char myLetter = 'D';
+        bool myBool = true;
+        string myText = "Hello";
+    
+C# Identifiers
+
+    All C# variables must be identified with unique names.
+
+    These unique names are called identifiers.
+
+    Identifiers can be short names (like x and y) or more descriptive 
+    names (age, sum, totalVolume). 
+
+
+Datatypes 
+1. int 
+2. long
+3. float
+4. double
+
+C# Type Casting
+    In C#, there are two types of casting:
+
+    Implicit Casting (automatically) - converting a smaller type to a larger type size
+    Implicit casting is done automatically when passing a smaller size type to a larger size type:
+    char -> int -> long -> float -> double
+        int myInt = 9;
+        double myDouble = myInt;       // Automatic casting: int to double
+
+        Console.WriteLine(myInt);      // Outputs 9
+        Console.WriteLine(myDouble);   // Outputs 9
+
+
+
+    Explicit Casting (manually) - converting a larger type to a smaller size type
+    Explicit casting must be done manually by placing the type in parentheses in front of the value:
+    double -> float -> long -> int -> char
+        double myDouble = 9.78;
+        int myInt = (int) myDouble;    // Manual casting: double to int
+
+        Console.WriteLine(myDouble);   // Outputs 9.78
+        Console.WriteLine(myInt);      // Outputs 9
+
+    Type Conversion Methods
+
+    int myInt = 10;
+    double myDouble = 5.25;
+    bool myBool = true;
+
+    Console.WriteLine(Convert.ToString(myInt));    // convert int to string
+    Console.WriteLine(Convert.ToDouble(myInt));    // convert int to double
+    Console.WriteLine(Convert.ToInt32(myDouble));  // convert double to int
+    Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
+
+String Formating - https://www.geeksforgeeks.org/string-format-method-in-c-sharp-with-examples-set-1/
+                https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=net-5.0
+
+    In C#,  Format() is a string method. This method is used to replace one or more format
+     items in the specified string with the string representation of a specified object.
+     In other words, this method is used to insert the value of the variable or an object 
+     or expression into another string.
+
+    Decimal pricePerOunce = 17.36m;
+    String s = String.Format("The current price is {0} per ounce.",
+                            pricePerOunce);
+    Console.WriteLine(s);
+    // Result: The current price is 17.36 per ounce.
+
+
+$ - string interpolation (C# reference)
+    https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated
+
+
+    The $ special character identifies a string literal as an interpolated string.
+    An interpolated string is a string literal that might contain interpolation expressions.
+
+    C# string interpolation is used to format and manipulate strings. This feature was introduced in C# 6. 
+    Using string interpolation, we can use objects and expressions as a part of the string interpolation operation.
+     C# string interpolation is a method of concatenating, formatting and manipulating strings
+
+
+    string name = "Mark";
+    var date = DateTime.Now;
+
+    // Composite formatting:
+    Console.WriteLine("Hello, {0}! Today is {1}, it's {2:HH:mm} now.", name, date.DayOfWeek, date);
+    // String interpolation:
+    Console.WriteLine($"Hello, {name}! Today is {date.DayOfWeek}, it's {date:HH:mm} now.");
+    // Both calls produce the same output that is similar to:
+    // Hello, Mark! Today is Wednesday, it's 19:40 now.
+
+
+
+C# Methods
+    A method is a block of code which only runs when it is called.
+
+    You can pass data, known as parameters, into a method.
+
+    Methods are used to perform certain actions, and they are also known as functions.
+
+
+Static keyword in C#
+    https://www.geeksforgeeks.org/static-keyword-in-c-sharp/
+    static is a modifier in C# which is applicable for the following:
+
+    Classes
+    Variables
+    Methods
+    Constructor
+
+    Static Class
+    1. A static class is declared with the help of static keyword. 
+    2. A static class can only contain static data members, static methods, and a static constructor. 
+    3. It is not allowed to create objects of the static class. 
+    4. Static classes are sealed, means one cannot inherit a static class from another class.
+
+    Static Variables
+
+    1.  A static variable is declared with the help of static keyword.
+    2. When a variable is declared as static, then a single copy of the variable is created and shared 
+        among all objects at the class level. 
+    3. Static variables are accessed with the name of the class, they do not require any object for access.
+
+    Static Method 
+    1. A static method is declared with the help of static keyword. Static methods are accessed with the name of the class.
+    2. A static method can access static and non-static fields, static fields are directly accessed by the static method without
+      class name whereas non-static fields require objects.
+
+    Static Constructor
+        A static constructor is declared with the help of static keyword. 
+        Static Constructor has to be invoked only once in the class and it has been invoked during 
+        the creation of the first reference to a static member in the class.
+         A static constructor is initialized static fields or data of the class and to be executed only once.
+
+Points To Remember:
+
+    It can’t be called directly.
+    When it is executing, then the user has no control.
+    It does not take access modifiers or any parameters.
+    It is called automatically to initialize the class before the first instance created.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+C:\Users\proje\source\repos\Day4\asnyn_await\bin\Debug\asnyn_await.exe.config
+C:\Users\proje\source\repos\Day4\asnyn_await\bin\Debug\asnyn_await.exe
+C:\Users\proje\source\repos\Day4\asnyn_await\bin\Debug\asnyn_await.pdb
+C:\Users\proje\source\repos\Day4\asnyn_await\obj\Debug\asnyn_await.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\Day4\asnyn_await\obj\Debug\asnyn_await.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Day4\asnyn_await\obj\Debug\asnyn_await.exe
+C:\Users\proje\source\repos\Day4\asnyn_await\obj\Debug\asnyn_await.pdb

@@ -1,0 +1,9 @@
+D:\Traing\Day1\Class\bin\Debug\Class.dll
+D:\Traing\Day1\Class\bin\Debug\Class.pdb
+D:\Traing\Day1\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+D:\Traing\Day1\Class\obj\Debug\Class.dll
+D:\Traing\Day1\Class\obj\Debug\Class.pdb
+D:\Traing\Day1\Class\bin\Debug\Newtonsoft.Json.dll
+D:\Traing\Day1\Class\bin\Debug\Newtonsoft.Json.xml
+D:\Traing\Day1\Class\obj\Debug\Class.csprojAssemblyReference.cache
+D:\Traing\Day1\Class\obj\Debug\Class.csproj.CopyComplete

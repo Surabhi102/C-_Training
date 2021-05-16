@@ -1,0 +1,7 @@
+C:\Users\proje\source\repos\pair\pair\bin\Debug\pair.exe.config
+C:\Users\proje\source\repos\pair\pair\bin\Debug\pair.exe
+C:\Users\proje\source\repos\pair\pair\bin\Debug\pair.pdb
+C:\Users\proje\source\repos\pair\pair\obj\Debug\pair.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\pair\pair\obj\Debug\pair.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\pair\pair\obj\Debug\pair.exe
+C:\Users\proje\source\repos\pair\pair\obj\Debug\pair.pdb

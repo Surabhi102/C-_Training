@@ -1,0 +1,13 @@
+D:\Traing\Day6\FileData\FileData\DemoJSON\bin\Debug\DemoJSON.exe.config
+D:\Traing\Day6\FileData\FileData\DemoJSON\bin\Debug\DemoJSON.exe
+D:\Traing\Day6\FileData\FileData\DemoJSON\bin\Debug\DemoJSON.pdb
+D:\Traing\Day6\FileData\FileData\DemoJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Traing\Day6\FileData\FileData\DemoJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.csprojAssemblyReference.cache
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.FormMain.resources
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.Properties.Resources.resources
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.csproj.GenerateResource.cache
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.csproj.CoreCompileInputs.cache
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.csproj.CopyComplete
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.exe
+D:\Traing\Day6\FileData\FileData\DemoJSON\obj\Debug\DemoJSON.pdb

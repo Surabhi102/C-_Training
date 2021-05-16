@@ -1,0 +1,10 @@
+C:\Users\proje\source\repos\Day4\async1\bin\Debug\async1.exe.config
+C:\Users\proje\source\repos\Day4\async1\bin\Debug\async1.exe
+C:\Users\proje\source\repos\Day4\async1\bin\Debug\async1.pdb
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.Form1.resources
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.Properties.Resources.resources
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.csproj.GenerateResource.cache
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.exe
+C:\Users\proje\source\repos\Day4\async1\obj\Debug\async1.pdb

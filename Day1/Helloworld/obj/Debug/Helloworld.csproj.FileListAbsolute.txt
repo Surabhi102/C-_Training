@@ -1,0 +1,10 @@
+D:\Traing\Day1\Helloworld\bin\Debug\Helloworld.exe.config
+D:\Traing\Day1\Helloworld\bin\Debug\Helloworld.exe
+D:\Traing\Day1\Helloworld\bin\Debug\Helloworld.pdb
+D:\Traing\Day1\Helloworld\obj\Debug\Helloworld.csprojAssemblyReference.cache
+D:\Traing\Day1\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+D:\Traing\Day1\Helloworld\obj\Debug\Helloworld.exe
+D:\Traing\Day1\Helloworld\obj\Debug\Helloworld.pdb
+D:\Traing\Day1\Helloworld\bin\Debug\Class.dll
+D:\Traing\Day1\Helloworld\bin\Debug\Class.pdb
+D:\Traing\Day1\Helloworld\obj\Debug\Helloworld.csproj.CopyComplete

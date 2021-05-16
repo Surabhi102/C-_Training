@@ -1,0 +1,11 @@
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\bin\Debug\FruitBasket_Final.exe.config
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\bin\Debug\FruitBasket_Final.exe
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\bin\Debug\FruitBasket_Final.pdb
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.FruitBasket.resources
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.Properties.Resources.resources
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.csproj.GenerateResource.cache
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.exe
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.pdb
+C:\Users\proje\source\repos\FruitBasket_Final\FruitBasket_Final\obj\Debug\FruitBasket_Final.welcome.resources

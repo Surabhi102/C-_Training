@@ -1,0 +1,14 @@
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\DemoEF.exe.config
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\DemoEF.exe
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\DemoEF.pdb
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\EntityFramework.dll
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\EntityFramework.xml
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.csprojAssemblyReference.cache
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.Properties.Resources.resources
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.csproj.GenerateResource.cache
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.csproj.CoreCompileInputs.cache
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.csproj.CopyComplete
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.exe
+D:\Traing\Day6\DataAccess (1)\DataAccess\DemoEF\obj\Debug\DemoEF.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.Author">
+    <Position X="1.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.book">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAgAAAAIQAAAAAEAAAAAAAAAEAACA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="author" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Library.commic">
+    <Position X="3.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>commic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.digest">
+    <Position X="8" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>digest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.librarian">
+    <Position X="7.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAAAAAQAQAAAAAEAAACAAAAAAAAAA=</HashCode>
+      <FileName>librarian.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="member" />
+      <Property Name="book" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Library.Magazine">
+    <Position X="5.75" Y="4.5" Width="1.75" />
+    <InheritanceLine Type="Library.book" FixedFromPoint="true">
+      <Path>
+        <Point X="5.875" Y="3.352" />
+        <Point X="5.875" Y="4.125" />
+        <Point X="6.625" Y="4.125" />
+        <Point X="6.625" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Magagzine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.member">
+    <Position X="10.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAAAAgAAAAAAAEAAQAAAAYAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>member.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="visit" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Library.visit">
+    <Position X="11.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAA=</HashCode>
+      <FileName>visit.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="member1" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9.6" />
+</ClassDiagram>

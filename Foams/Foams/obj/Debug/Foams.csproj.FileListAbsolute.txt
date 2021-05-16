@@ -1,0 +1,10 @@
+C:\Users\proje\source\repos\Foams\Foams\bin\Debug\Foams.exe.config
+C:\Users\proje\source\repos\Foams\Foams\bin\Debug\Foams.exe
+C:\Users\proje\source\repos\Foams\Foams\bin\Debug\Foams.pdb
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.Form1.resources
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.Properties.Resources.resources
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.csproj.GenerateResource.cache
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.exe
+C:\Users\proje\source\repos\Foams\Foams\obj\Debug\Foams.pdb

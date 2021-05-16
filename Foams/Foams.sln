@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foams", "Foams\Foams.csproj", "{004856CB-844A-434F-8562-F22E1E4198D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{48CF9141-BD44-4366-A0A8-652ED0A9890A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004856CB-844A-434F-8562-F22E1E4198D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004856CB-844A-434F-8562-F22E1E4198D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004856CB-844A-434F-8562-F22E1E4198D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004856CB-844A-434F-8562-F22E1E4198D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CF9141-BD44-4366-A0A8-652ED0A9890A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CF9141-BD44-4366-A0A8-652ED0A9890A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CF9141-BD44-4366-A0A8-652ED0A9890A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CF9141-BD44-4366-A0A8-652ED0A9890A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3249CFF8-18C8-471C-B396-3777F238DFB0}
+	EndGlobalSection
+EndGlobal

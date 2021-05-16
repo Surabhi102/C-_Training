@@ -1,0 +1,25 @@
+Test Driven Development - 
+Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before 
+software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. 
+This is opposed to software being developed first and test cases created later. 
+
+Unit Tests 
+UNIT TESTING is a type of software testing where individual units or components of a software are tested. T
+he purpose is to validate that each unit of the software code performs as expected. 
+Unit Testing is done during the development (coding phase) of an application by the developers
+
+SYSTEM TESTING is a level of testing that validates the complete and fully integrated software product. 
+The purpose of a system test is to evaluate the end-to-end system specifications. 
+Usually, the software is only one element of a larger computer-based system.
+.
+
+Integration testing (sometimes called integration and testing, abbreviated I&T) is the phase in software testing in which individual software modules are combined and tested as a group.
+ Integration testing is conducted to evaluate the compliance of a system or component with specified functional requirements.
+It occurs after unit testing and before validation testing. 
+Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as 
+its output the integrated system ready for system testing
+
+
+Automated Testing:
+Automation Testing or Test Automation is a software testing technique that performs using special automated testing software tools to execute a test case suite.
+The automation testing software can also enter test data into the System Under Test, compare expected and actual results and generate detailed test reports
