@@ -1,0 +1,19 @@
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\mathtest.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\mathtest.pdb
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\class Library.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\classLib.exe
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\class Library.pdb
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\classLib.pdb
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\classLib.exe.config
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\proje\source\repos\Day1P\mathtest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\proje\source\repos\Day1P\mathtest\obj\Debug\mathtest.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\Day1P\mathtest\obj\Debug\mathtest.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Day1P\mathtest\obj\Debug\mathtest.csproj.CopyComplete
+C:\Users\proje\source\repos\Day1P\mathtest\obj\Debug\mathtest.dll
+C:\Users\proje\source\repos\Day1P\mathtest\obj\Debug\mathtest.pdb

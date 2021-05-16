@@ -1,0 +1,10 @@
+C:\Users\proje\source\repos\Day1P\classLib\bin\Debug\classLib.exe.config
+C:\Users\proje\source\repos\Day1P\classLib\bin\Debug\classLib.exe
+C:\Users\proje\source\repos\Day1P\classLib\bin\Debug\classLib.pdb
+C:\Users\proje\source\repos\Day1P\classLib\bin\Debug\class Library.dll
+C:\Users\proje\source\repos\Day1P\classLib\bin\Debug\class Library.pdb
+C:\Users\proje\source\repos\Day1P\classLib\obj\Debug\classLib.csprojAssemblyReference.cache
+C:\Users\proje\source\repos\Day1P\classLib\obj\Debug\classLib.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Day1P\classLib\obj\Debug\classLib.csproj.CopyComplete
+C:\Users\proje\source\repos\Day1P\classLib\obj\Debug\classLib.exe
+C:\Users\proje\source\repos\Day1P\classLib\obj\Debug\classLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\proje\source\repos\Day1P\class Library\bin\Debug\class Library.dll
+C:\Users\proje\source\repos\Day1P\class Library\bin\Debug\class Library.pdb
+C:\Users\proje\source\repos\Day1P\class Library\obj\Debug\class Library.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Day1P\class Library\obj\Debug\class Library.dll
+C:\Users\proje\source\repos\Day1P\class Library\obj\Debug\class Library.pdb
